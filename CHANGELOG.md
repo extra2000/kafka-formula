@@ -1,5 +1,26 @@
 # Changelog
 
+### [1.0.2](https://github.com/extra2000/kafka-formula/compare/v1.0.1...v1.0.2) (2020-10-01)
+
+
+### Styles
+
+* **README:** Move descriptions ([4c1adb0](https://github.com/extra2000/kafka-formula/commit/4c1adb0b0725e51ec4b1e6290be5a97d22468e59))
+
+
+### Documentations
+
+* **README:** Add a list of available states ([1ed0b56](https://github.com/extra2000/kafka-formula/commit/1ed0b56b9a8458033d9a62799f16fbc24241e75d))
+* **README:** Add badges ([eaf0aad](https://github.com/extra2000/kafka-formula/commit/eaf0aadc318ce02e556ca2770ed1d0d4c17be443))
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add feat type ([b28500a](https://github.com/extra2000/kafka-formula/commit/b28500a7a7195e6c4432fbbdb10351dbd1783660))
+* **semantic-release:** Add rc, beta, and alpha release channels ([f57eb68](https://github.com/extra2000/kafka-formula/commit/f57eb68f01a22a9ec790d4a4d170914bfc6f0542))
+* **semantic-release:** Remove invalid release branches ([5faaecf](https://github.com/extra2000/kafka-formula/commit/5faaecfa28eeaf0261b4b3c9490c0c31ec0f6a36))
+* **semantic-release:** Remove README scope from docs ([1f27c31](https://github.com/extra2000/kafka-formula/commit/1f27c31ba148fdba13e8f2d9f25ce5c7d1380aec))
+
 ### [1.0.1](https://github.com/extra2000/kafka-formula/compare/v1.0.0...v1.0.1) (2020-09-27)
 
 
