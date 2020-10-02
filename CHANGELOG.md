@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://github.com/extra2000/kafka-formula/compare/v1.0.2...v1.0.3) (2020-10-02)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([f0ec052](https://github.com/extra2000/kafka-formula/commit/f0ec0523ec16642fdae1233865bd4b83f0728eca))
+
 ### [1.0.2](https://github.com/extra2000/kafka-formula/compare/v1.0.1...v1.0.2) (2020-10-01)
 
 
