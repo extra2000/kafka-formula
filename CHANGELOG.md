@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://github.com/extra2000/kafka-formula/compare/v1.0.3...v1.0.4) (2020-10-04)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Fix patch updates with BREAKING CHANGE doesn't trigger major release ([94db8b0](https://github.com/extra2000/kafka-formula/commit/94db8b08ff5f0145c3076b780db4724f03cced55))
+
 ### [1.0.3](https://github.com/extra2000/kafka-formula/compare/v1.0.2...v1.0.3) (2020-10-02)
 
 
